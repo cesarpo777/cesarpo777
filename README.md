@@ -14,6 +14,10 @@ Actualmente estoy interesado en conseguir un trabajo que me permita consolidar l
 
 Siempre estoy capacitándome en tecnologías nuevas ...
 
+**Conocimientos**:
+
+``const tecnologias = ['html', 'css', 'bootstrap', 'react', 'mongodb', 'express', 'node', 'git', 'github']``
+
 *Where to find me -->*
 
 ```javascript
