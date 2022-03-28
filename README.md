@@ -1,22 +1,32 @@
-## 👋 Hola, soy César Muzio
+## 👋 Hi there, I'm, César Muzio
 
-#### Acerca de mi
+#### About me
 
-Soy un Técnico Universitario en Logística, que comenzó a estudiar programación a finales del 2019 de manera autodidacta...
-* Fanático del desarrollo personal
-* Conmovido por los desafíos
+University Technician on logistics who turned into a web developer
+* Fan of personal development
+* Challenge lover
 * Spanglish and English lover
 
 
+**:wrench:Tools and techs**:
 
-
-Actualmente estoy interesado en conseguir un trabajo que me permita consolidar los conocimientos aprendidos ...
-
-Siempre estoy capacitándome en tecnologías nuevas ...
-
-**Conocimientos**:
-
-``const tecnologias = ['html', 'css', 'bootstrap', 'react', 'mongodb', 'express', 'node', 'git', 'github']``
+``const tecnologias = [
+  'html', 
+  'css', 
+  'bootstrap', 
+  'react',
+  'sveltekit'
+  'mongodb',
+  'mongoose'
+  'mysql',
+  'sequelize'
+  'postman'
+  'express', 
+  'node', 
+  'git', 
+  'github'
+  
+  ]``
 
 *Where to find me -->*
 
@@ -28,6 +38,8 @@ Siempre estoy capacitándome en tecnologías nuevas ...
     case linkedIn:
         return 'https://www.linkedin.com/in/c%C3%A9sar-muzio/'
         break;
+    case movil:
+        return +54 9 3516090180
     default:
       return 'https://cesar-muzio.herokuapp.com/'
 
