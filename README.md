@@ -10,7 +10,8 @@ University Technician on logistics who turned into a web developer
 
 **:wrench:Tools and techs**:
 
-``const tecnologias = [
+```sh
+  const tecnologias = [
   'html', 
   'css', 
   'bootstrap', 
@@ -25,8 +26,8 @@ University Technician on logistics who turned into a web developer
   'node', 
   'git', 
   'github'
-  
-  ]``
+  ]
+  ```
 
 *Where to find me -->*
 
