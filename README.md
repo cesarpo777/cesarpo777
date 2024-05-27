@@ -25,7 +25,9 @@ University Technician on logistics who turned into a web developer
   'express', 
   'node', 
   'git', 
-  'github'
+  'github',
+  'php',
+  'wordpress'
   ]
   ```
 
@@ -40,9 +42,9 @@ University Technician on logistics who turned into a web developer
         return 'https://www.linkedin.com/in/c%C3%A9sar-muzio/'
         break;
     case movil:
-        return +54 9 3516090180
+        return +54 9 3515166483
     default:
-      return 'https://cesar-muzio.herokuapp.com/'
+      return 'https://github.com/cesarpo777/'
 
 ```
 
